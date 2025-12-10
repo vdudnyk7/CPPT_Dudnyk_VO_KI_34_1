@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"KI304.Dudnyk.Lab3","l":"Airplane"},{"p":"KI304.Dudnyk.Lab3","l":"AirplaneApp"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI304.Dudnyk.Lab3","l":"Bomber"},{"p":"KI304.Dudnyk.Lab3","l":"BomberDemo"}];updateSearchResults();

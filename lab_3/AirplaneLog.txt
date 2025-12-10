@@ -1,0 +1,9 @@
+Status requested: Running=false, thrust=0, altitude=0, heading=0, seats=5
+Status requested: Running=false, thrust=0, altitude=0, heading=0, seats=5
+Engine started with thrust 100
+Airplane took off
+Altitude set to 700
+Heading changed to 15
+Heading changed to 180
+Airplane landed
+Status requested: Running=false, thrust=120, altitude=0, heading=180, seats=5
